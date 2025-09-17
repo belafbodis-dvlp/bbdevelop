@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/bbdevelop/static/css/main.bee79758.css",
-    "main.js": "/bbdevelop/static/js/main.26e36448.js",
-    "static/js/603.ce72b4d1.chunk.js": "/bbdevelop/static/js/603.ce72b4d1.chunk.js",
-    "static/js/119.9838b216.chunk.js": "/bbdevelop/static/js/119.9838b216.chunk.js",
-    "static/js/124.48a3cd9f.chunk.js": "/bbdevelop/static/js/124.48a3cd9f.chunk.js",
-    "static/js/92.5fe1c280.chunk.js": "/bbdevelop/static/js/92.5fe1c280.chunk.js",
+    "main.js": "/bbdevelop/static/js/main.129d08c5.js",
+    "static/js/603.1c814744.chunk.js": "/bbdevelop/static/js/603.1c814744.chunk.js",
+    "static/js/119.aec4cbea.chunk.js": "/bbdevelop/static/js/119.aec4cbea.chunk.js",
+    "static/js/124.030cdb30.chunk.js": "/bbdevelop/static/js/124.030cdb30.chunk.js",
+    "static/js/92.cee4e27b.chunk.js": "/bbdevelop/static/js/92.cee4e27b.chunk.js",
     "static/js/722.c35c3010.chunk.js": "/bbdevelop/static/js/722.c35c3010.chunk.js",
     "index.html": "/bbdevelop/index.html",
     "main.bee79758.css.map": "/bbdevelop/static/css/main.bee79758.css.map",
-    "main.26e36448.js.map": "/bbdevelop/static/js/main.26e36448.js.map",
-    "603.ce72b4d1.chunk.js.map": "/bbdevelop/static/js/603.ce72b4d1.chunk.js.map",
-    "119.9838b216.chunk.js.map": "/bbdevelop/static/js/119.9838b216.chunk.js.map",
-    "124.48a3cd9f.chunk.js.map": "/bbdevelop/static/js/124.48a3cd9f.chunk.js.map",
-    "92.5fe1c280.chunk.js.map": "/bbdevelop/static/js/92.5fe1c280.chunk.js.map",
+    "main.129d08c5.js.map": "/bbdevelop/static/js/main.129d08c5.js.map",
+    "603.1c814744.chunk.js.map": "/bbdevelop/static/js/603.1c814744.chunk.js.map",
+    "119.aec4cbea.chunk.js.map": "/bbdevelop/static/js/119.aec4cbea.chunk.js.map",
+    "124.030cdb30.chunk.js.map": "/bbdevelop/static/js/124.030cdb30.chunk.js.map",
+    "92.cee4e27b.chunk.js.map": "/bbdevelop/static/js/92.cee4e27b.chunk.js.map",
     "722.c35c3010.chunk.js.map": "/bbdevelop/static/js/722.c35c3010.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bee79758.css",
-    "static/js/main.26e36448.js"
+    "static/js/main.129d08c5.js"
   ]
 }
